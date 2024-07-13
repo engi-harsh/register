@@ -1,0 +1,21 @@
+{
+    "description": "Project Description",
+
+    "domain": ".is-a-fullstack.dev",
+    "subdomain": "harshkumarsingh",
+
+    "owner": {
+        "repo": "https://github.com/engi-harsh/register",
+        "email": "hello@harshkumarsingh.com"
+    },
+
+    "record": {
+        "A": ["1.1.1.1", "1.0.0.1"],
+        "AAAA": ["::1", "::2"],
+        "CNAME": "harshkumarsingh.com",
+        "MX": ["mx1.harshkumarsingh.com", "mx2.harshkumarsingh.com"],
+        "TXT": ["harshkumarsingh_verification=1234567890"]
+    },
+
+    "proxied": false
+}
